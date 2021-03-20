@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119176743011",
+    "project_id": "pidm2-b383f",
+    "storage_bucket": "pidm2-b383f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119176743011:android:683a7322101ea216191056",
+        "android_client_info": {
+          "package_name": "com.pidm2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119176743011-uc24k5b5c1e94ji5hqbrn3h7ikdqoh9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwVENHchcBJdmsdmQ6ER_eQ6E4AAcIdyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119176743011-uc24k5b5c1e94ji5hqbrn3h7ikdqoh9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
